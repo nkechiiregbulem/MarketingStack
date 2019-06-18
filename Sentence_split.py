@@ -4,3 +4,13 @@ def split():
     print(b)
     
 split()
+
+
+# If you Join
+
+def join():
+    b = split()
+    join2 = ' '.join(b)
+    print(join2)
+
+join()
